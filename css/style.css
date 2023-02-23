@@ -1,0 +1,137 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+table{
+    width: 100%;
+}
+.w-50px{
+    width: 100px;
+}
+.l-p-50px{
+    padding-left: 40px;
+}
+.menu ul{
+    margin: 0px;
+    text-align: center;
+    border-spacing: 0px;
+}
+.menu ul li{
+    list-style: none;
+    display: inline-block;
+    padding-right: 40px;
+}
+.menu ul li a{
+    text-decoration: none;
+}
+.btn-nav{
+    padding: 10px 20px;
+    color: #fff;
+    cursor: pointer;
+    text-decoration: none;
+  }
+  .btn-hover{
+    color: rgb(0, 255, 234);
+}
+.pad-left-80px{
+    padding-left: 80px;
+}
+.f-size{
+    font-size: 40px;
+}
+.lh-45{
+    line-height: 45px;
+}
+.menu td a{
+    text-decoration: none;
+}
+.btn-watch{
+    border: 2px solid #fff;
+    border-radius: 30px;
+    color: #fff;
+    cursor: pointer;
+    transition: background 2s;
+  }
+.bg {
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+.f-s{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding-left: 60px;
+  }
+  .pad-live{
+    padding-left: 120px;
+    color: white;
+    font-size: 30px;
+    text-decoration: none;
+    transition: 5s;
+    
+}
+.bg{
+    background-color: #F0F2F5;
+}
+.dis-s{
+    font-size: 50px;
+    color: black;
+    padding: 80px 0px 0px 120px;
+
+}s
+.sub-image-1 ul li{
+    list-style: none;
+
+
+}
+.fot-bg {
+background-color: #242933;
+}
+.color-w{
+    color: white;
+}
+.menu-1 ul li {
+    list-style: none;
+    padding: 15px;
+}
+
+.discover ul li{
+    list-style: none;
+
+}
+.discover ul{
+    margin: 0px;
+    padding: 0px;
+}
+.fot-bg tr td {
+    vertical-align: top;
+
+}
+.fot-bg tr td ul li {
+color: #8a8f99;
+}
+.fot-bg tr td ul li b{
+    color: #fff;
+    }
+.footer-column {
+    width: 25%;
+
+}  
+.footer-column ul li{
+    list-style: none;
+} 
+.animated-element {
+    /* Default styling */
+    background-color: rgb(250, 250, 250);
+    color: b;
+    padding: 10px;
+    /* Transition properties */
+    transition: opacity 0.5s;
+    opacity: 1;
+  }
+  
+  .animated-element:hover {
+    opacity: 0.5;
+  }
+  
